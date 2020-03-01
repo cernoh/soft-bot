@@ -1,2 +1,0 @@
-if(message.content.toLowerCase().includes("feelings"))
-  message.channel.send("y'all too soft and it shows")
